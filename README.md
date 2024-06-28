@@ -1,2 +1,2 @@
-### ShopEase 
-## E-commerce-website
+## ShopEase 
+### E-commerce-website
